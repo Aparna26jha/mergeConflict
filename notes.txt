@@ -1,1 +1,1 @@
-Conflicting change from main branch.
+This is content from the main branch.
